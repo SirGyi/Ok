@@ -1,5 +1,5 @@
-#open source by Mr Mafia
-# Github Muzammil-404
+#open source by Paing Gyi
+# Github SirGyi
 # if you want to re edit this code give credits to Mr Mafia
 # if you dont want to give credits look at your self again
 
@@ -7,7 +7,7 @@
 from os import path
 import os,platform,base64,zlib,pip,urllib
 os.system('clear')
-print('\n\033[1;37m Loading VEER Tools...')
+print('\n\033[1;37m Loading SirGyi Tools...')
 try:
 	import os,requests,json,time,re,random,sys,uuid,string,subprocess,platform,base64
 	from string import *
@@ -19,7 +19,7 @@ try:
 except ModuleNotFoundError: 
 	print('\n Installing missing modules ...')
 	os.system('pip install requests bs4 futures==2 > /dev/null')
-	os.system('python VEER.py')
+	os.system('python Ok.py')
 	
 	
 
